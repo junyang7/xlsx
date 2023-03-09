@@ -1,0 +1,8 @@
+{
+  "name": "junyang7/php-xlsx",
+  "autoload": {
+    "psr-4": {
+      "Junyang7\\PhpXlsx\\": "src"
+    }
+  }
+}
